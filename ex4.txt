@@ -1,0 +1,28 @@
+desafio 04
+Para resolver esse problema, vamos primeiro calcular o tempo que cada veículo leva para chegar ao ponto de encontro.
+
+Para o carro, podemos usar a fórmula de velocidade média:
+
+velocidade média = distância / tempo
+
+Como a distância entre as cidades é de 100 km e o carro viaja a uma velocidade constante de 110 km/h, podemos calcular o tempo que ele leva:
+
+tempo = distância / velocidade média = 100 / 110 = 0.91 horas
+
+Para o caminhão, precisamos levar em conta o tempo extra que ele leva nos pedágios. Vamos supor que cada pedágio leve 5 minutos a mais para ser passado pelo caminhão. Isso significa que ele leva um total de 10 minutos extras (5 minutos por pedágio). Convertendo isso para horas, temos:
+
+tempo extra em horas = 10 / 60 = 0.17 horas
+
+Portanto, o tempo total que o caminhão leva para percorrer a distância entre as cidades é:
+
+tempo = distância / velocidade média + tempo extra = 100 / 80 + 0.17 = 1.42 horas
+
+Agora que sabemos o tempo que cada veículo leva, podemos calcular a distância que cada um percorre antes de se encontrarem. O carro percorre:
+
+distância percorrida pelo carro = velocidade média x tempo = 110 x 0.91 = 100 km
+
+Já o caminhão percorre:
+
+distância percorrida pelo caminhão = velocidade média x tempo = 80 x 1.42 = 113.6 km
+
+Portanto, quando os dois veículos se encontrarem, o caminhão estará mais próximo da cidade de Ribeirão Preto, pois terá percorrido uma distância maior em relação a essa cidade.

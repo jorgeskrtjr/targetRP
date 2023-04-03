@@ -1,0 +1,5 @@
+desafio 01
+
+O loop será executado 13 vezes, adicionando os números de 1 à 13 na variável SOMA. 
+
+O resultado final será de 91. 
